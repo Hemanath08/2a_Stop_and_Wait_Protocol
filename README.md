@@ -43,4 +43,4 @@ while True:
 ![image](https://github.com/Hemanath08/2a_Stop_and_Wait_Protocol/assets/151807176/ff77a4cd-962c-4742-bae3-4b820243a8b5)
 
 ## RESULT:
-Thus, python program to perform stop and wait protocol was successfully executed.
+
